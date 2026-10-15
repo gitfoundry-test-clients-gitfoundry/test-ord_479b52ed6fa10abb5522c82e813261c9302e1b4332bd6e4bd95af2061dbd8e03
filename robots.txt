@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gitfoundry-test-clients-gitfoundry.github.io/test-ord_479b52ed6fa10abb5522c82e813261c9302e1b4332bd6e4bd95af2061dbd8e03/sitemap.xml

@@ -1,2 +1,22 @@
-# test-ord_479b52ed6fa10abb5522c82e813261c9302e1b4332bd6e4bd95af2061dbd8e03
-Website for Synthetic Harbour Plumbing — built by GitFoundry
+# Synthetic Harbour Plumbing
+
+Your website built by [GitFoundry](https://gitfoundry.co.uk).
+
+## Your files
+
+- `404.html`
+- `favicon.svg`
+- `index.html`
+- `mobile-nav.js`
+- `og-image.png`
+- `robots.txt`
+- `sitemap.xml`
+- `styles.css`
+
+## Making changes
+
+Edit any HTML or CSS file directly on GitHub, or [contact GitFoundry](https://gitfoundry.co.uk/contact.html) for updates.
+
+## Transferring this repository
+
+If you'd like to own this repository outright, [contact GitFoundry](https://gitfoundry.co.uk/contact.html) with your GitHub username.
